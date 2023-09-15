@@ -167,7 +167,7 @@ body
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #726969;
+  color: #263c4b;
 }
 #time div:nth-child(2)::after
 {
